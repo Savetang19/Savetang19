@@ -1,15 +1,19 @@
-<h1>Hello there 👋, my name is Napasakorn Boonkerd (Savetang 😎)</h1>
-Pronouns: She / Her
-<h3>I'm currently a Software and Knowledge Engineering student at Kasetsart University, Thailand.</h3>
+# Hello there 👋, I'm Napasakorn Boonkerd
+**You guys can call me "Savetang" (เซฟตัง in Thai)** <br>
+She / Her <br>
+19.10.2002 <br>
+SKE 19 | KU 81 <br>
+I'm currently a Software and Knowledge Engineering student at Kasetsart University, Thailand.<br>
+⚙️💻👩🏻‍💻✨🌻🍃🌿
 
-<h3>Below are my GitHub trophies:</h3>
+## Below are my GitHub trophies
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Savetang19&theme=onedark" alt="Savetang" />
   </a>
 </p>
 
-<h3>Connent with me: </h3>
+## Connent with me:
 <a href="https://www.facebook.com/Napasakorn.Save">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
@@ -17,8 +21,7 @@ Pronouns: She / Her
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<h3>My GitHub Stats:</h3>
-
+## My GitHub Stats
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Savetang19&show_icons=true&locale=en&layout=compact&theme=onedark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Savetang19&show_icons=true&theme=onedark)
